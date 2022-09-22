@@ -14,6 +14,7 @@
     - We use componentDidMount() to connect to the YouTube API and get videos when the components is rendered
 
 ## React State Vs Props
+
 **LINK WON'T COONECT TO YOUTUBE.COM**
 
 1. What types of things can you pass in the props?
@@ -23,7 +24,6 @@
 3. When do we re-render our application?
 
 4. What are some examples of things that we could store in state?
-
 
 ## Things I Want To Know More About
 
