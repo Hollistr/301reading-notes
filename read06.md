@@ -9,7 +9,7 @@
     - I would call it a huge filing cabinet of all the library's of the internet.
 
 3. What does it mean that node is a JavaScript runtime?
-    -  Runtime is a specific version of the V8 engine, this means that you can write your JavaScript using the latest and most modern syntax.
+    - Runtime is a specific version of the V8 engine, this means that you can write your JavaScript using the latest and most modern syntax.
 
 4. What is npm?
     - Node comes bundled with a package manager called npm. In addition to being the package manager for JavaScript, npm is also the world’s largest software registry.
